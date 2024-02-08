@@ -1,6 +1,6 @@
 # chatapp
 
-A new Flutter project.
+A new Flutter Firebase project.
 
 ## Getting Started
 
